@@ -80,6 +80,7 @@ public class Snake extends Canvas {
 	}
 	
 	void render() {
+		System.out.println("Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
 		BufferStrategy bs = this.getBufferStrategy();
 		if(bs == null) {
 			createBufferStrategy(2);
