@@ -9,6 +9,5 @@ Take on the classic snake game with the least amount of code possible
 - Include a way to track memory usage
 
 **6/21/16:** 
-
-File: 214 lines 5,891 bytes
+File: 214 lines 5,891 bytes <br/>
 Mem: 8,862,128 bytes
